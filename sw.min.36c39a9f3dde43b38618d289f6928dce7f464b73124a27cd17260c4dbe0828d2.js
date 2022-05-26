@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/template-hugo-book/sw.js",{scope:"/template-hugo-book/"})
